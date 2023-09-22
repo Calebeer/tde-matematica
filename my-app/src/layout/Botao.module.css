@@ -1,0 +1,27 @@
+.objective{
+    text-align: center;
+}   
+
+.objective button{
+    border-radius: 2px;
+    border: none;
+    background-color: rgba(3, 228, 3, 0.89);
+    padding: 5px;
+;
+}
+
+.butto{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    transition: 0.5s;
+}
+
+.butto:hover{
+    background-color:rgb(245, 187, 116);
+}
+
+.iconWrapper {
+    margin-left: 18px;
+    width: 10 0px;
+  }

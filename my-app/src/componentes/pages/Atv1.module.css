@@ -1,0 +1,52 @@
+.inputs{
+    width: 30%;
+    margin: 10px;
+    padding: 5px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.buttons{
+    border: none;
+    background-color: rgb(89, 248, 89);
+    padding: 5px;
+    border-radius: 5px;
+    transition: 0.5s;
+    font-weight: bold;
+    height: 40px;
+}
+
+.buttons:hover{
+    background-color: white;
+    color: green;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.container2{
+    display: flex;
+}
+
+.retorno{
+    background-color: burlywood;
+    width: 100%;
+    border-radius: 5px;
+}
+
+h4{
+    padding: 5px;
+}
+
+#err{
+    padding-bottom: 20px;
+}
+
