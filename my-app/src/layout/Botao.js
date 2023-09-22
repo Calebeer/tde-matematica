@@ -17,7 +17,7 @@ function Botao({funcao}){
     return(
         <div>
             <div className={styles.objective} >
-                <button className={styles.butto} onClick={funcao}  >Objetivo  <span className={styles.iconWrapper}><SlArrowDownCircle /></span></button>
+                <button className={styles.butto} onClick={funcao}  >Objetivo ↓</button>
                
             </div>
         </div>
