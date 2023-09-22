@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import styles from './Botao.module.css'
-import {SlArrowDownCircle} from "react-icons/sl";
+
 
 
 
